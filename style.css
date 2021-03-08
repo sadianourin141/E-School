@@ -1,0 +1,240 @@
+.navbar-brand img{
+    height: 50px;
+    width: 100px;
+    
+}
+.radius{
+    color: white;
+    height: 43px;
+width: 104px;
+left: 1201px;
+top: 25px;
+border-radius: 33px;
+padding: 12px, 28px, 12px, 28px;
+background-color: #21B573;
+border: none;
+
+}
+.align{
+    align-content: flex-end;
+}
+.space{
+    margin-top: 100px;
+}
+.photo img{
+    height:280px;
+    width:440px;
+    align-content: flex-end;
+    margin-left: 150px;
+    
+}
+.learn{
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.lorem{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.text{
+    float: left;
+}
+.green{
+    color: #21B573;
+    
+}
+h6{
+    color: tomato;
+}
+
+.second{
+    margin-top: 70px;
+}
+.inner{
+    margin:0px 30px;
+}
+.get-started{
+height: 43px;
+width: 153px;
+left: 205px;
+top: 470px;
+border-radius: 33px;
+padding: 12px, 36px, 12px, 36px;
+background: #21B573;
+border: none;
+color: white;
+
+}
+.container.back-ground{
+    background-color: #F0FFF0;
+    height: 500px;
+}
+.pic img{
+height: 85px;
+width: 66px;
+left: 231px;
+top: 672px;
+border-radius: 0px;
+margin-top: 70px;
+
+}
+
+
+.book{
+background-color:white;
+height: 270px;
+width: 200px;
+left: 120px;
+top: 618px;
+border-radius: 10px;
+box-shadow: 5px 5px 30px lightgray;
+
+}
+.student{
+ background-color:white;
+height: 270px;
+width: 210px;
+left: 120px;
+top: 618px;
+border-radius: 10px;
+box-shadow: 5px 5px 30px lightgray;
+}
+.test{
+background-color:white;
+height: 270px;
+width: 210px;
+left: 120px;
+top: 618px;
+border-radius: 10px;
+box-shadow: 5px 5px 30px lightgray;
+}
+.students{
+ background-color:white;
+height: 270px;
+width: 210px;
+left: 120px;
+top: 618px;
+border-radius: 10px;
+box-shadow: 5px 5px 30px lightgray;
+
+}
+.type{
+
+
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+}
+.ll{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+}
+.pad{
+    padding:10px 10px;
+}
+.card{
+    border:none;
+    border-radius: 200px;
+    box-shadow: 10px 10px 10px lightgray;
+
+}
+ .calendar img{
+height:20px;
+width:20px;
+top: 15px;
+left: 11px;
+
+
+
+}
+.calendar{
+    margin-top: 15px;
+}
+.man img{
+
+height: 120px;
+width: 120px;
+left: 353px;
+top: 1787px;
+border-radius: 0px;
+
+
+}
+.close{
+    margin:150px;
+}
+ .bg{
+background-color: #282531;
+
+
+
+}
+.fp{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+.sp{
+
+
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+.graphic{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+
+}
+.gap{
+    padding-top: 30px;
+}
+footer{
+    color: white;
+    margin-bottom: 15px;
+}
+
+
+
+
+
